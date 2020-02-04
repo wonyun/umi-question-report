@@ -25,17 +25,17 @@
  error  in ./node_modules/kindeditor/themes/default/default.css
 
 Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
-ModuleNotFoundError: Module not found: Error: Can't resolve 'background.png' in '/Users/didi/Desktop/didi/study/umi-question-report/node_modules/kindeditor/themes/default'
-    at factory.create (/Users/didi/Desktop/didi/study/umi-question-report/node_modules/webpack/lib/Compilation.js:925:10)
-    at factory (/Users/didi/Desktop/didi/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:401:22)
-    at resolver (/Users/didi/Desktop/didi/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:130:21)
-    at asyncLib.parallel (/Users/didi/Desktop/didi/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:224:22)
-    at /Users/didi/Desktop/didi/study/umi-question-report/node_modules/neo-async/async.js:2830:7
-    at /Users/didi/Desktop/didi/study/umi-question-report/node_modules/neo-async/async.js:6877:13
-    at normalResolver.resolve (/Users/didi/Desktop/didi/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:214:25)
-    at doResolve (/Users/didi/Desktop/didi/study/umi-question-report/node_modules/enhanced-resolve/lib/Resolver.js:213:14)
-    at hook.callAsync (/Users/didi/Desktop/didi/study/umi-question-report/node_modules/enhanced-resolve/lib/Resolver.js:285:5)
-    at _fn0 (eval at create (/Users/didi/Desktop/didi/study/umi-question-report/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)
+ModuleNotFoundError: Module not found: Error: Can't resolve 'background.png' in '/Users/wonyun/Desktop/study/umi-question-report/node_modules/kindeditor/themes/default'
+    at factory.create (/Users/wonyun/Desktop/study/umi-question-report/node_modules/webpack/lib/Compilation.js:925:10)
+    at factory (/Users/wonyun/Desktop/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:401:22)
+    at resolver (/Users/wonyun/Desktop/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:130:21)
+    at asyncLib.parallel (/Users/wonyun/Desktop/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:224:22)
+    at /Users/wonyun/Desktop/study/umi-question-report/node_modules/neo-async/async.js:2830:7
+    at /Users/wonyun/Desktop/study/umi-question-report/node_modules/neo-async/async.js:6877:13
+    at normalResolver.resolve (/Users/wonyun/Desktop/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:214:25)
+    at doResolve (/Users/wonyun/Desktop/study/umi-question-report/node_modules/enhanced-resolve/lib/Resolver.js:213:14)
+    at hook.callAsync (/Users/wonyun/Desktop/study/umi-question-report/node_modules/enhanced-resolve/lib/Resolver.js:285:5)
+    at _fn0 (eval at create (/Users/wonyun/Desktop/study/umi-question-report/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:15:1)
 
  @ ./src/pages/index.tsx 3:0-47
  @ ./src/pages/.umi/router.js
