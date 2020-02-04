@@ -25,7 +25,8 @@
  error  in ./node_modules/kindeditor/themes/default/default.css
 
 Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
-ModuleNotFoundError: Module not found: Error: Can't resolve 'background.png' in '/Users/wonyun/Desktop/study/umi-question-report/node_modules/kindeditor/themes/default'
+ModuleNotFoundError: Module not found: Error: Can't resolve 'background.png' in 
+    '/Users/wonyun/Desktop/study/umi-question-report/node_modules/kindeditor/themes/default'
     at factory.create (/Users/wonyun/Desktop/study/umi-question-report/node_modules/webpack/lib/Compilation.js:925:10)
     at factory (/Users/wonyun/Desktop/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:401:22)
     at resolver (/Users/wonyun/Desktop/study/umi-question-report/node_modules/webpack/lib/NormalModuleFactory.js:130:21)
